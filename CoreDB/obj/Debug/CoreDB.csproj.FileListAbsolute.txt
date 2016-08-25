@@ -1,0 +1,56 @@
+C:\DSLMS main Project\DSISLMS\CoreDB\bin\Debug\CoreDB.dll
+C:\DSLMS main Project\DSISLMS\CoreDB\bin\Debug\CoreDB.pdb
+C:\DSLMS main Project\DSISLMS\CoreDB\obj\Debug\CoreDB.dll
+C:\DSLMS main Project\DSISLMS\CoreDB\obj\Debug\CoreDB.pdb
+C:\DSLMS main Project\DSISLMS\CoreDB\bin\Debug\Coreinterface.dll
+C:\DSLMS main Project\DSISLMS\CoreDB\bin\Debug\Coreinterface.pdb
+C:\DSLMS main Project\DSISLMS\CoreDB\obj\Debug\CoreDB.csprojResolveAssemblyReference.cache
+C:\DSLMS main Project\DSISLMS\CoreDB\bin\Debug\CoreServices.dll
+C:\DSLMS main Project\DSISLMS\CoreDB\bin\Debug\CoreServices.pdb
+D:\Microware project\DSISLMS\CoreDB\bin\Debug\CoreDB.dll
+D:\Microware project\DSISLMS\CoreDB\bin\Debug\CoreDB.pdb
+D:\Microware project\DSISLMS\CoreDB\bin\Debug\BBDN-REST-Demo-CSharp.dll
+D:\Microware project\DSISLMS\CoreDB\bin\Debug\Coreinterface.dll
+D:\Microware project\DSISLMS\CoreDB\bin\Debug\CoreServices.dll
+D:\Microware project\DSISLMS\CoreDB\bin\Debug\Newtonsoft.Json.dll
+D:\Microware project\DSISLMS\CoreDB\bin\Debug\Nito.AsyncEx.dll
+D:\Microware project\DSISLMS\CoreDB\bin\Debug\System.Net.Http.Formatting.dll
+D:\Microware project\DSISLMS\CoreDB\bin\Debug\System.Web.Http.dll
+D:\Microware project\DSISLMS\CoreDB\bin\Debug\Nito.AsyncEx.Enlightenment.dll
+D:\Microware project\DSISLMS\CoreDB\bin\Debug\BBDN-REST-Demo-CSharp.pdb
+D:\Microware project\DSISLMS\CoreDB\bin\Debug\Coreinterface.pdb
+D:\Microware project\DSISLMS\CoreDB\bin\Debug\CoreServices.pdb
+D:\Microware project\DSISLMS\CoreDB\bin\Debug\Newtonsoft.Json.xml
+D:\Microware project\DSISLMS\CoreDB\bin\Debug\Nito.AsyncEx.xml
+D:\Microware project\DSISLMS\CoreDB\bin\Debug\System.Net.Http.Formatting.xml
+D:\Microware project\DSISLMS\CoreDB\bin\Debug\System.Web.Http.xml
+D:\Microware project\DSISLMS\CoreDB\bin\Debug\Nito.AsyncEx.Enlightenment.xml
+D:\Microware project\DSISLMS\CoreDB\obj\Debug\CoreDB.csprojResolveAssemblyReference.cache
+D:\Microware project\DSISLMS\CoreDB\obj\Debug\CoreDB.dll
+D:\Microware project\DSISLMS\CoreDB\obj\Debug\CoreDB.pdb
+F:\Projects\DDDaytoneCollege\DSISLMS\CoreDB\bin\Debug\CoreDB.dll
+F:\Projects\DDDaytoneCollege\DSISLMS\CoreDB\bin\Debug\CoreDB.pdb
+F:\Projects\DDDaytoneCollege\DSISLMS\CoreDB\bin\Debug\BBDN-REST-Demo-CSharp.dll
+F:\Projects\DDDaytoneCollege\DSISLMS\CoreDB\bin\Debug\Newtonsoft.Json.dll
+F:\Projects\DDDaytoneCollege\DSISLMS\CoreDB\bin\Debug\Nito.AsyncEx.dll
+F:\Projects\DDDaytoneCollege\DSISLMS\CoreDB\bin\Debug\Nito.AsyncEx.Enlightenment.dll
+F:\Projects\DDDaytoneCollege\DSISLMS\CoreDB\bin\Debug\BBDN-REST-Demo-CSharp.pdb
+F:\Projects\DDDaytoneCollege\DSISLMS\CoreDB\bin\Debug\Newtonsoft.Json.xml
+F:\Projects\DDDaytoneCollege\DSISLMS\CoreDB\obj\Debug\CoreDB.csprojResolveAssemblyReference.cache
+F:\Projects\DDDaytoneCollege\DSISLMS\CoreDB\obj\Debug\CoreDB.dll
+F:\Projects\DDDaytoneCollege\DSISLMS\CoreDB\obj\Debug\CoreDB.pdb
+D:\DDML\DSISLMS\CoreDB\bin\Debug\CoreDB.dll
+D:\DDML\DSISLMS\CoreDB\bin\Debug\CoreDB.pdb
+D:\DDML\DSISLMS\CoreDB\bin\Debug\BBDN-REST-Demo-CSharp.dll
+D:\DDML\DSISLMS\CoreDB\bin\Debug\Newtonsoft.Json.dll
+D:\DDML\DSISLMS\CoreDB\bin\Debug\Nito.AsyncEx.dll
+D:\DDML\DSISLMS\CoreDB\bin\Debug\System.Net.Http.Formatting.dll
+D:\DDML\DSISLMS\CoreDB\bin\Debug\System.Web.Http.dll
+D:\DDML\DSISLMS\CoreDB\bin\Debug\Nito.AsyncEx.Enlightenment.dll
+D:\DDML\DSISLMS\CoreDB\bin\Debug\BBDN-REST-Demo-CSharp.pdb
+D:\DDML\DSISLMS\CoreDB\bin\Debug\Newtonsoft.Json.xml
+D:\DDML\DSISLMS\CoreDB\bin\Debug\System.Net.Http.Formatting.xml
+D:\DDML\DSISLMS\CoreDB\bin\Debug\System.Web.Http.xml
+D:\DDML\DSISLMS\CoreDB\obj\Debug\CoreDB.csprojResolveAssemblyReference.cache
+D:\DDML\DSISLMS\CoreDB\obj\Debug\CoreDB.dll
+D:\DDML\DSISLMS\CoreDB\obj\Debug\CoreDB.pdb

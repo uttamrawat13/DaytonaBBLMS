@@ -1,0 +1,171 @@
+C:\DSISLMS\DSISLMS_Web\bin\DSISLMS_Web.dll
+C:\DSISLMS\DSISLMS_Web\bin\DSISLMS_Web.pdb
+C:\DSISLMS\DSISLMS_Web\bin\Telerik.Web.Spreadsheet.dll
+C:\DSISLMS\DSISLMS_Web\bin\Telerik.Web.UI.dll
+C:\DSISLMS\DSISLMS_Web\bin\Telerik.Web.UI.Skins.dll
+C:\DSISLMS\DSISLMS_Web\bin\Telerik.Windows.Documents.Core.dll
+C:\DSISLMS\DSISLMS_Web\bin\Telerik.Windows.Documents.Fixed.dll
+C:\DSISLMS\DSISLMS_Web\bin\Telerik.Windows.Documents.Flow.dll
+C:\DSISLMS\DSISLMS_Web\bin\Telerik.Windows.Documents.Flow.FormatProviders.Pdf.dll
+C:\DSISLMS\DSISLMS_Web\bin\Telerik.Windows.Documents.Spreadsheet.dll
+C:\DSISLMS\DSISLMS_Web\bin\Telerik.Windows.Documents.Spreadsheet.FormatProviders.OpenXml.dll
+C:\DSISLMS\DSISLMS_Web\bin\Telerik.Windows.Documents.Spreadsheet.FormatProviders.Pdf.dll
+C:\DSISLMS\DSISLMS_Web\bin\Telerik.Windows.Zip.dll
+C:\DSISLMS\DSISLMS_Web\bin\Telerik.Windows.Zip.Extensions.dll
+C:\DSISLMS\DSISLMS_Web\bin\Newtonsoft.Json.dll
+C:\DSISLMS\DSISLMS_Web\bin\Telerik.Web.Spreadsheet.xml
+C:\DSISLMS\DSISLMS_Web\bin\Telerik.Web.UI.xml
+C:\DSISLMS\DSISLMS_Web\bin\Telerik.Windows.Documents.Core.xml
+C:\DSISLMS\DSISLMS_Web\bin\Telerik.Windows.Documents.Fixed.xml
+C:\DSISLMS\DSISLMS_Web\bin\Telerik.Windows.Documents.Flow.xml
+C:\DSISLMS\DSISLMS_Web\bin\Telerik.Windows.Documents.Flow.FormatProviders.Pdf.xml
+C:\DSISLMS\DSISLMS_Web\bin\Telerik.Windows.Documents.Spreadsheet.xml
+C:\DSISLMS\DSISLMS_Web\bin\Telerik.Windows.Documents.Spreadsheet.FormatProviders.OpenXml.xml
+C:\DSISLMS\DSISLMS_Web\bin\Telerik.Windows.Documents.Spreadsheet.FormatProviders.Pdf.xml
+C:\DSISLMS\DSISLMS_Web\bin\Telerik.Windows.Zip.xml
+C:\DSISLMS\DSISLMS_Web\bin\Telerik.Windows.Zip.Extensions.xml
+C:\DSISLMS\DSISLMS_Web\obj\Debug\DSISLMS_Web.csprojResolveAssemblyReference.cache
+C:\DSISLMS\DSISLMS_Web\obj\Debug\DSISLMS_Web.dll
+C:\DSISLMS\DSISLMS_Web\obj\Debug\DSISLMS_Web.pdb
+C:\DSLMS main Project\DSISLMS\DSISLMS_Web\bin\DSISLMS_Web.dll
+C:\DSLMS main Project\DSISLMS\DSISLMS_Web\bin\DSISLMS_Web.pdb
+C:\DSLMS main Project\DSISLMS\DSISLMS_Web\bin\CoreBlackboard.dll
+C:\DSLMS main Project\DSISLMS\DSISLMS_Web\bin\Telerik.Web.Spreadsheet.dll
+C:\DSLMS main Project\DSISLMS\DSISLMS_Web\bin\Telerik.Web.UI.dll
+C:\DSLMS main Project\DSISLMS\DSISLMS_Web\bin\Telerik.Web.UI.Skins.dll
+C:\DSLMS main Project\DSISLMS\DSISLMS_Web\bin\Telerik.Windows.Documents.Core.dll
+C:\DSLMS main Project\DSISLMS\DSISLMS_Web\bin\Telerik.Windows.Documents.Fixed.dll
+C:\DSLMS main Project\DSISLMS\DSISLMS_Web\bin\Telerik.Windows.Documents.Flow.dll
+C:\DSLMS main Project\DSISLMS\DSISLMS_Web\bin\Telerik.Windows.Documents.Flow.FormatProviders.Pdf.dll
+C:\DSLMS main Project\DSISLMS\DSISLMS_Web\bin\Telerik.Windows.Documents.Spreadsheet.dll
+C:\DSLMS main Project\DSISLMS\DSISLMS_Web\bin\Telerik.Windows.Documents.Spreadsheet.FormatProviders.OpenXml.dll
+C:\DSLMS main Project\DSISLMS\DSISLMS_Web\bin\Telerik.Windows.Documents.Spreadsheet.FormatProviders.Pdf.dll
+C:\DSLMS main Project\DSISLMS\DSISLMS_Web\bin\Telerik.Windows.Zip.dll
+C:\DSLMS main Project\DSISLMS\DSISLMS_Web\bin\Telerik.Windows.Zip.Extensions.dll
+C:\DSLMS main Project\DSISLMS\DSISLMS_Web\bin\Newtonsoft.Json.dll
+C:\DSLMS main Project\DSISLMS\DSISLMS_Web\bin\CoreBlackboard.pdb
+C:\DSLMS main Project\DSISLMS\DSISLMS_Web\bin\Telerik.Web.Spreadsheet.xml
+C:\DSLMS main Project\DSISLMS\DSISLMS_Web\bin\Telerik.Web.UI.xml
+C:\DSLMS main Project\DSISLMS\DSISLMS_Web\bin\Telerik.Windows.Documents.Core.xml
+C:\DSLMS main Project\DSISLMS\DSISLMS_Web\bin\Telerik.Windows.Documents.Fixed.xml
+C:\DSLMS main Project\DSISLMS\DSISLMS_Web\bin\Telerik.Windows.Documents.Flow.xml
+C:\DSLMS main Project\DSISLMS\DSISLMS_Web\bin\Telerik.Windows.Documents.Flow.FormatProviders.Pdf.xml
+C:\DSLMS main Project\DSISLMS\DSISLMS_Web\bin\Telerik.Windows.Documents.Spreadsheet.xml
+C:\DSLMS main Project\DSISLMS\DSISLMS_Web\bin\Telerik.Windows.Documents.Spreadsheet.FormatProviders.OpenXml.xml
+C:\DSLMS main Project\DSISLMS\DSISLMS_Web\bin\Telerik.Windows.Documents.Spreadsheet.FormatProviders.Pdf.xml
+C:\DSLMS main Project\DSISLMS\DSISLMS_Web\bin\Telerik.Windows.Zip.xml
+C:\DSLMS main Project\DSISLMS\DSISLMS_Web\bin\Telerik.Windows.Zip.Extensions.xml
+C:\DSLMS main Project\DSISLMS\DSISLMS_Web\obj\Debug\DSISLMS_Web.csprojResolveAssemblyReference.cache
+C:\DSLMS main Project\DSISLMS\DSISLMS_Web\obj\Debug\DSISLMS_Web.dll.licenses
+C:\DSLMS main Project\DSISLMS\DSISLMS_Web\obj\Debug\DSISLMS_Web.dll
+C:\DSLMS main Project\DSISLMS\DSISLMS_Web\obj\Debug\DSISLMS_Web.pdb
+C:\DSLMS main Project\DSISLMS\DSISLMS_Web\bin\CoreDB.dll
+C:\DSLMS main Project\DSISLMS\DSISLMS_Web\bin\CoreDB.pdb
+C:\DSLMS main Project\DSISLMS\DSISLMS_Web\bin\Coreinterface.dll
+C:\DSLMS main Project\DSISLMS\DSISLMS_Web\bin\Coreinterface.pdb
+C:\DSLMS main Project\DSISLMS\DSISLMS_Web\bin\CoreServices.dll
+C:\DSLMS main Project\DSISLMS\DSISLMS_Web\bin\CoreServices.pdb
+D:\Microware project\DSISLMS\DSISLMS_Web\bin\DSISLMS_Web.dll.config
+D:\Microware project\DSISLMS\DSISLMS_Web\bin\DSISLMS_Web.dll
+D:\Microware project\DSISLMS\DSISLMS_Web\bin\DSISLMS_Web.pdb
+D:\Microware project\DSISLMS\DSISLMS_Web\bin\AjaxControlToolkit.dll
+D:\Microware project\DSISLMS\DSISLMS_Web\bin\BBDN-REST-Demo-CSharp.dll
+D:\Microware project\DSISLMS\DSISLMS_Web\bin\CoreBlackboard.dll
+D:\Microware project\DSISLMS\DSISLMS_Web\bin\CoreDB.dll
+D:\Microware project\DSISLMS\DSISLMS_Web\bin\Coreinterface.dll
+D:\Microware project\DSISLMS\DSISLMS_Web\bin\CoreServices.dll
+D:\Microware project\DSISLMS\DSISLMS_Web\bin\Telerik.Web.Spreadsheet.dll
+D:\Microware project\DSISLMS\DSISLMS_Web\bin\Telerik.Web.UI.dll
+D:\Microware project\DSISLMS\DSISLMS_Web\bin\Telerik.Web.UI.Skins.dll
+D:\Microware project\DSISLMS\DSISLMS_Web\bin\Telerik.Windows.Documents.Core.dll
+D:\Microware project\DSISLMS\DSISLMS_Web\bin\Telerik.Windows.Documents.Fixed.dll
+D:\Microware project\DSISLMS\DSISLMS_Web\bin\Telerik.Windows.Documents.Flow.dll
+D:\Microware project\DSISLMS\DSISLMS_Web\bin\Telerik.Windows.Documents.Flow.FormatProviders.Pdf.dll
+D:\Microware project\DSISLMS\DSISLMS_Web\bin\Telerik.Windows.Documents.Spreadsheet.dll
+D:\Microware project\DSISLMS\DSISLMS_Web\bin\Telerik.Windows.Documents.Spreadsheet.FormatProviders.OpenXml.dll
+D:\Microware project\DSISLMS\DSISLMS_Web\bin\Telerik.Windows.Documents.Spreadsheet.FormatProviders.Pdf.dll
+D:\Microware project\DSISLMS\DSISLMS_Web\bin\Telerik.Windows.Zip.dll
+D:\Microware project\DSISLMS\DSISLMS_Web\bin\Telerik.Windows.Zip.Extensions.dll
+D:\Microware project\DSISLMS\DSISLMS_Web\bin\Newtonsoft.Json.dll
+D:\Microware project\DSISLMS\DSISLMS_Web\bin\Nito.AsyncEx.dll
+D:\Microware project\DSISLMS\DSISLMS_Web\bin\System.Net.Http.Formatting.dll
+D:\Microware project\DSISLMS\DSISLMS_Web\bin\System.Web.Http.dll
+D:\Microware project\DSISLMS\DSISLMS_Web\bin\Nito.AsyncEx.Enlightenment.dll
+D:\Microware project\DSISLMS\DSISLMS_Web\bin\BBDN-REST-Demo-CSharp.pdb
+D:\Microware project\DSISLMS\DSISLMS_Web\bin\CoreBlackboard.pdb
+D:\Microware project\DSISLMS\DSISLMS_Web\bin\CoreDB.pdb
+D:\Microware project\DSISLMS\DSISLMS_Web\bin\Coreinterface.pdb
+D:\Microware project\DSISLMS\DSISLMS_Web\bin\CoreServices.pdb
+D:\Microware project\DSISLMS\DSISLMS_Web\bin\AjaxControlToolkit.pdb
+D:\Microware project\DSISLMS\DSISLMS_Web\bin\Telerik.Web.Spreadsheet.xml
+D:\Microware project\DSISLMS\DSISLMS_Web\bin\Telerik.Web.UI.xml
+D:\Microware project\DSISLMS\DSISLMS_Web\bin\Telerik.Windows.Documents.Core.xml
+D:\Microware project\DSISLMS\DSISLMS_Web\bin\Telerik.Windows.Documents.Fixed.xml
+D:\Microware project\DSISLMS\DSISLMS_Web\bin\Telerik.Windows.Documents.Flow.xml
+D:\Microware project\DSISLMS\DSISLMS_Web\bin\Telerik.Windows.Documents.Flow.FormatProviders.Pdf.xml
+D:\Microware project\DSISLMS\DSISLMS_Web\bin\Telerik.Windows.Documents.Spreadsheet.xml
+D:\Microware project\DSISLMS\DSISLMS_Web\bin\Telerik.Windows.Documents.Spreadsheet.FormatProviders.OpenXml.xml
+D:\Microware project\DSISLMS\DSISLMS_Web\bin\Telerik.Windows.Documents.Spreadsheet.FormatProviders.Pdf.xml
+D:\Microware project\DSISLMS\DSISLMS_Web\bin\Telerik.Windows.Zip.xml
+D:\Microware project\DSISLMS\DSISLMS_Web\bin\Telerik.Windows.Zip.Extensions.xml
+D:\Microware project\DSISLMS\DSISLMS_Web\bin\Newtonsoft.Json.xml
+D:\Microware project\DSISLMS\DSISLMS_Web\bin\Nito.AsyncEx.xml
+D:\Microware project\DSISLMS\DSISLMS_Web\bin\System.Net.Http.Formatting.xml
+D:\Microware project\DSISLMS\DSISLMS_Web\bin\System.Web.Http.xml
+D:\Microware project\DSISLMS\DSISLMS_Web\bin\Nito.AsyncEx.Enlightenment.xml
+D:\Microware project\DSISLMS\DSISLMS_Web\bin\ar\AjaxControlToolkit.resources.dll
+D:\Microware project\DSISLMS\DSISLMS_Web\bin\cs\AjaxControlToolkit.resources.dll
+D:\Microware project\DSISLMS\DSISLMS_Web\bin\de\AjaxControlToolkit.resources.dll
+D:\Microware project\DSISLMS\DSISLMS_Web\bin\es\AjaxControlToolkit.resources.dll
+D:\Microware project\DSISLMS\DSISLMS_Web\bin\fr\AjaxControlToolkit.resources.dll
+D:\Microware project\DSISLMS\DSISLMS_Web\bin\he\AjaxControlToolkit.resources.dll
+D:\Microware project\DSISLMS\DSISLMS_Web\bin\hi\AjaxControlToolkit.resources.dll
+D:\Microware project\DSISLMS\DSISLMS_Web\bin\it\AjaxControlToolkit.resources.dll
+D:\Microware project\DSISLMS\DSISLMS_Web\bin\ja\AjaxControlToolkit.resources.dll
+D:\Microware project\DSISLMS\DSISLMS_Web\bin\ko\AjaxControlToolkit.resources.dll
+D:\Microware project\DSISLMS\DSISLMS_Web\bin\nl\AjaxControlToolkit.resources.dll
+D:\Microware project\DSISLMS\DSISLMS_Web\bin\pt\AjaxControlToolkit.resources.dll
+D:\Microware project\DSISLMS\DSISLMS_Web\bin\ru\AjaxControlToolkit.resources.dll
+D:\Microware project\DSISLMS\DSISLMS_Web\bin\tr-TR\AjaxControlToolkit.resources.dll
+D:\Microware project\DSISLMS\DSISLMS_Web\bin\zh-CHS\AjaxControlToolkit.resources.dll
+D:\Microware project\DSISLMS\DSISLMS_Web\bin\zh-CHT\AjaxControlToolkit.resources.dll
+D:\Microware project\DSISLMS\DSISLMS_Web\obj\Debug\DSISLMS_Web.csprojResolveAssemblyReference.cache
+D:\Microware project\DSISLMS\DSISLMS_Web\obj\Debug\DSISLMS_Web.dll.licenses
+D:\Microware project\DSISLMS\DSISLMS_Web\obj\Debug\DSISLMS_Web.dll
+D:\Microware project\DSISLMS\DSISLMS_Web\obj\Debug\DSISLMS_Web.pdb
+F:\Projects\DDDaytoneCollege\DSISLMS\DSISLMS_Web\bin\DSISLMS_Web.dll.config
+F:\Projects\DDDaytoneCollege\DSISLMS\DSISLMS_Web\bin\DSISLMS_Web.dll
+F:\Projects\DDDaytoneCollege\DSISLMS\DSISLMS_Web\bin\DSISLMS_Web.pdb
+F:\Projects\DDDaytoneCollege\DSISLMS\DSISLMS_Web\bin\BBDN-REST-Demo-CSharp.dll
+F:\Projects\DDDaytoneCollege\DSISLMS\DSISLMS_Web\bin\CoreBlackboard.dll
+F:\Projects\DDDaytoneCollege\DSISLMS\DSISLMS_Web\bin\CoreDB.dll
+F:\Projects\DDDaytoneCollege\DSISLMS\DSISLMS_Web\bin\Newtonsoft.Json.dll
+F:\Projects\DDDaytoneCollege\DSISLMS\DSISLMS_Web\bin\Nito.AsyncEx.dll
+F:\Projects\DDDaytoneCollege\DSISLMS\DSISLMS_Web\bin\Nito.AsyncEx.Enlightenment.dll
+F:\Projects\DDDaytoneCollege\DSISLMS\DSISLMS_Web\bin\BBDN-REST-Demo-CSharp.pdb
+F:\Projects\DDDaytoneCollege\DSISLMS\DSISLMS_Web\bin\CoreBlackboard.pdb
+F:\Projects\DDDaytoneCollege\DSISLMS\DSISLMS_Web\bin\CoreDB.pdb
+F:\Projects\DDDaytoneCollege\DSISLMS\DSISLMS_Web\bin\Newtonsoft.Json.xml
+F:\Projects\DDDaytoneCollege\DSISLMS\DSISLMS_Web\obj\Debug\DSISLMS_Web.csprojResolveAssemblyReference.cache
+F:\Projects\DDDaytoneCollege\DSISLMS\DSISLMS_Web\obj\Debug\DSISLMS_Web.dll.licenses
+F:\Projects\DDDaytoneCollege\DSISLMS\DSISLMS_Web\obj\Debug\DSISLMS_Web.dll
+F:\Projects\DDDaytoneCollege\DSISLMS\DSISLMS_Web\obj\Debug\DSISLMS_Web.pdb
+D:\DDML\DSISLMS\DSISLMS_Web\obj\Debug\DSISLMS_Web.csprojResolveAssemblyReference.cache
+D:\DDML\DSISLMS\DSISLMS_Web\obj\Debug\DSISLMS_Web.dll.licenses
+D:\DDML\DSISLMS\DSISLMS_Web\bin\DSISLMS_Web.dll.config
+D:\DDML\DSISLMS\DSISLMS_Web\bin\DSISLMS_Web.dll
+D:\DDML\DSISLMS\DSISLMS_Web\bin\DSISLMS_Web.pdb
+D:\DDML\DSISLMS\DSISLMS_Web\bin\BBDN-REST-Demo-CSharp.dll
+D:\DDML\DSISLMS\DSISLMS_Web\bin\CoreBlackboard.dll
+D:\DDML\DSISLMS\DSISLMS_Web\bin\CoreDB.dll
+D:\DDML\DSISLMS\DSISLMS_Web\bin\Newtonsoft.Json.dll
+D:\DDML\DSISLMS\DSISLMS_Web\bin\Nito.AsyncEx.dll
+D:\DDML\DSISLMS\DSISLMS_Web\bin\System.Net.Http.Formatting.dll
+D:\DDML\DSISLMS\DSISLMS_Web\bin\System.Web.Http.dll
+D:\DDML\DSISLMS\DSISLMS_Web\bin\Nito.AsyncEx.Enlightenment.dll
+D:\DDML\DSISLMS\DSISLMS_Web\bin\BBDN-REST-Demo-CSharp.pdb
+D:\DDML\DSISLMS\DSISLMS_Web\bin\CoreBlackboard.pdb
+D:\DDML\DSISLMS\DSISLMS_Web\bin\CoreDB.pdb
+D:\DDML\DSISLMS\DSISLMS_Web\bin\Newtonsoft.Json.xml
+D:\DDML\DSISLMS\DSISLMS_Web\obj\Debug\DSISLMS_Web.dll
+D:\DDML\DSISLMS\DSISLMS_Web\obj\Debug\DSISLMS_Web.pdb
