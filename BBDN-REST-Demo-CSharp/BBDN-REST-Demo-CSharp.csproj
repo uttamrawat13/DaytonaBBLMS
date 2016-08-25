@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{FB0B1A22-C707-405D-987F-1999D1B2CA3C}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>BBDN_REST_Demo_CSharp</RootNamespace>
+    <AssemblyName>BBDN-REST-Demo-CSharp</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="bbdn\rest\Authorizer.cs" />
+    <Compile Include="bbdn\rest\Constants.cs" />
+    <Compile Include="bbdn\rest\helpers\CourseHelper.cs" />
+    <Compile Include="bbdn\rest\helpers\DatasourceHelper.cs" />
+    <Compile Include="bbdn\rest\helpers\MembershipHelper.cs" />
+    <Compile Include="bbdn\rest\helpers\TermHelper.cs" />
+    <Compile Include="bbdn\rest\helpers\UserHelper.cs" />
+    <Compile Include="bbdn\rest\models\Address.cs" />
+    <Compile Include="bbdn\rest\models\Availability.cs" />
+    <Compile Include="bbdn\rest\models\Contact.cs" />
+    <Compile Include="bbdn\rest\models\Course.cs" />
+    <Compile Include="bbdn\rest\models\Datasource.cs" />
+    <Compile Include="bbdn\rest\models\Duration.cs" />
+    <Compile Include="bbdn\rest\models\Enrollment.cs" />
+    <Compile Include="bbdn\rest\models\Job.cs" />
+    <Compile Include="bbdn\rest\models\Locale.cs" />
+    <Compile Include="bbdn\rest\models\Membership.cs" />
+    <Compile Include="bbdn\rest\models\Name.cs" />
+    <Compile Include="bbdn\rest\models\RestException.cs" />
+    <Compile Include="bbdn\rest\models\Term.cs" />
+    <Compile Include="bbdn\rest\models\Token.cs" />
+    <Compile Include="bbdn\rest\models\User.cs" />
+    <Compile Include="bbdn\rest\services\CourseService.cs" />
+    <Compile Include="bbdn\rest\services\DatasourceService.cs" />
+    <Compile Include="bbdn\rest\services\IRestService.cs" />
+    <Compile Include="bbdn\rest\services\MembershipService.cs" />
+    <Compile Include="bbdn\rest\services\TermService.cs" />
+    <Compile Include="bbdn\rest\services\UserService.cs" />
+    <Compile Include="bbdn\rest\UpdateModels\UpdateUser.cs" />
+    <Compile Include="doCourse.cs" />
+    <Compile Include="doTerm.cs" />
+    <Compile Include="doUser.cs" />
+    <Compile Include="DynamicJsonConverter.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="Microsoft.VisualStudio.Services.WebApi, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\Uttam\BBDN-REST-Demo-CSharp-master\BBDN-REST-Demo-CSharp-master\BBDN-REST-Demo-CSharp\bin\Debug\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="Nito.AsyncEx">
+      <HintPath>..\..\Uttam\BBDN-REST-Demo-CSharp-master\BBDN-REST-Demo-CSharp-master\BBDN-REST-Demo-CSharp\bin\Debug\Nito.AsyncEx.dll</HintPath>
+    </Reference>
+    <Reference Include="Nito.AsyncEx.Concurrent">
+      <HintPath>..\..\Uttam\BBDN-REST-Demo-CSharp-master\BBDN-REST-Demo-CSharp-master\BBDN-REST-Demo-CSharp\bin\Debug\Nito.AsyncEx.Concurrent.dll</HintPath>
+    </Reference>
+    <Reference Include="Nito.AsyncEx.Enlightenment">
+      <HintPath>..\..\Uttam\BBDN-REST-Demo-CSharp-master\BBDN-REST-Demo-CSharp-master\BBDN-REST-Demo-CSharp\bin\Debug\Nito.AsyncEx.Enlightenment.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Net.Http.Extensions">
+      <HintPath>..\..\Uttam\BBDN-REST-Demo-CSharp-master\BBDN-REST-Demo-CSharp-master\BBDN-REST-Demo-CSharp\bin\Debug\System.Net.Http.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.Http.Primitives">
+      <HintPath>..\..\Uttam\BBDN-REST-Demo-CSharp-master\BBDN-REST-Demo-CSharp-master\BBDN-REST-Demo-CSharp\bin\Debug\System.Net.Http.Primitives.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.Http.WebRequest" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.XML" />
+    <Reference Include="System.Xml.Serialization" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

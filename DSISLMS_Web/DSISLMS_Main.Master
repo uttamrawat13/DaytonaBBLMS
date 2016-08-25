@@ -1,0 +1,126 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="DSISLMS_Main.master.cs" Inherits="DSISLMS_Web.DSISLMS_Main" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1" runat="server">
+    <title>Daytona:Learning Managment System</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    
+      
+    <link href="styles/DDResposive.css" rel="stylesheet" />
+  
+    
+
+   <asp:ContentPlaceHolder ID="CPhead" runat="server">
+    </asp:ContentPlaceHolder>
+
+</head>
+<body>
+  <form id="form1" runat="server">
+ 
+  <telerik:RadScriptManager ID="RSMMaster" Runat="server">
+  </telerik:RadScriptManager>
+  <telerik:RadAjaxLoadingPanel ID="RALPMaster" runat="server"
+        IsSticky="true" Style="position:fixed; top: 0; left: 0; width: 100%; height: 100%;
+        z-index: 1000005;" ZIndex="1000005">
+      
+    </telerik:RadAjaxLoadingPanel>
+
+  
+    <telerik:RadAjaxManager ID="RAMMaster" runat="server"  >
+       <AjaxSettings>            
+             <telerik:AjaxSetting AjaxControlID="PMaster" >
+                <UpdatedControls>
+                    <telerik:AjaxUpdatedControl ControlID="PMaster" LoadingPanelID="RAMMaster" ></telerik:AjaxUpdatedControl>
+                    <telerik:AjaxUpdatedControl ControlID="RMenuMain" LoadingPanelID="RAMMaster" ></telerik:AjaxUpdatedControl>
+                </UpdatedControls>
+            </telerik:AjaxSetting>
+           
+            
+       </AjaxSettings>
+    </telerik:RadAjaxManager>
+   <asp:Panel ID="PMaster" runat="server">
+    
+
+
+        <telerik:RadPageLayout runat="server" ID="RPLayoutHeader"  GridType="Fluid">
+            <Rows>
+                 <telerik:LayoutRow>
+                   <Content>
+                        <telerik:LayoutColumn ID="LCLeft" Span="6" SpanXs="12" SpanSm="6" runat="server" >
+                             <asp:Image ID="imgCampusLogo" runat="server" Width="180px" Height="60px" ImageUrl="~/Content/clientlogo/logo.png" />
+                        </telerik:LayoutColumn>
+                        <telerik:LayoutColumn ID="LCRight" Span="6" SpanXs="12" SpanSm="6" runat="server" >
+                             <div style="text-align:right;padding:4px;margin-top:20px">
+                                 <span>  <asp:Label ID="LBloginuser"  runat="server"></asp:Label></span> 
+                             </div>
+                                     
+                           
+                        </telerik:LayoutColumn>
+                    </Content>
+                 </telerik:LayoutRow>
+             </Rows>
+         </telerik:RadPageLayout>
+
+        <telerik:radpagelayout id="RPLayoutMenu" runat="server" style="z-index:1"  gridtype="Fluid">
+            <Rows>
+                <telerik:LayoutRow>
+                    <Content>
+                      <telerik:radpagelayout id="RLMainMenu" runat="server" gridtype="Fluid">
+                       <Rows>
+                         <telerik:LayoutRow >
+                                   <Content>
+                                     
+
+                                       <telerik:RadMenu ID="RMenuMain"   runat="server" Width="100%" RenderMode="Classic"  EnableSelection="true"   Style="z-index:6" >
+                                            <Items>
+                                                 <telerik:RadMenuItem Text="Blackboard" NavigateUrl="frmblackboard.aspx" />
+                                                 <telerik:RadMenuItem Text="Schedule" NavigateUrl="frmschedule.aspx" />
+                                                <telerik:RadMenuItem Text="Logout" NavigateUrl="frmLogin.aspx" />
+                                            </Items>
+                                       </telerik:RadMenu>
+                                </Content>
+                        </telerik:LayoutRow>
+                      </Rows>
+                     </telerik:radpagelayout>
+                   </Content>
+                </telerik:LayoutRow>
+               </Rows>
+        </telerik:radpagelayout>
+      
+        
+    
+    </asp:Panel>  
+        <telerik:RadPageLayout runat="server" ID="RPLayoutDetailContant"  GridType="Fluid">
+            <Rows>
+                <telerik:LayoutRow>
+                    <Columns>
+                       <telerik:LayoutColumn ID="LCContent" Span="12" runat="server"  SpanXs="12" SpanSm="12" style="margin-top:5px; min-height:350px;">
+                             <asp:ContentPlaceHolder ID="CPHDetail" runat="server" >
+                             
+                              </asp:ContentPlaceHolder>
+                       </telerik:LayoutColumn>
+                    </Columns>
+                 </telerik:LayoutRow>
+            </Rows>
+        </telerik:RadPageLayout>
+       
+        <telerik:RadPageLayout ID="RPLayoutFooter" runat="server"  GridType="Fluid">
+            <telerik:LayoutRow>
+                <Content>
+                    <div class="footer">|| Powered by Diamond SIS, Inc. ©2016 ||</div>
+                </Content>
+            </telerik:LayoutRow>
+        </telerik:RadPageLayout>
+
+
+      
+
+
+      
+
+
+    </form>
+</body>
+</html>
