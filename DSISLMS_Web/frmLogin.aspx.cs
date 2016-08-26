@@ -57,14 +57,11 @@ namespace DSISLMS_Web
                 {
                     RlblResult.Text = "Invalid user!";
                 }*/
-                show();
+               
                 Response.Redirect("frmblackboard.aspx");
             }
           
         }
-        public async void show()
-        {
-            
-        }
+       
     }
 }
