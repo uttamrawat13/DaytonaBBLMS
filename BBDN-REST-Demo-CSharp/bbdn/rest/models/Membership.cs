@@ -12,9 +12,14 @@ namespace BBDNRESTDemoCSharp
 
 		public string created { get; set; }
 
-		public Availability availability { get; set; }
+        public MembershipAvailability availability { get; set; }
 
 		public string courseRoleId { get; set; }
 	}
+    public class MembershipAvailability
+	{
+		public string available { get; set; }
+    }
+    
 }
 

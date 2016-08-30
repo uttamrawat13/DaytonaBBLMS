@@ -15,7 +15,7 @@ namespace BBDNRESTDemoCSharp.bbdn.rest.helpers
             
             availability.available = "Yes";
 
-            membership.availability = availability;
+           // membership.availability = availability;
             membership.courseRoleId = "Instructor";
 
             return (membership);

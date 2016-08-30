@@ -444,7 +444,7 @@ namespace DSISLMS_Web
                     GridDataItem ditem = (GridDataItem)e.Item;
 
                     string CourseOfferingNo = Convert.ToString(((Label)ditem.FindControl("lbCourseOfferingNo")).Text);
-                   // string course_id = Convert.ToString(((Label)ditem.FindControl("lbcourse_id")).Text);
+                    string course_id = Convert.ToString(((Label)ditem.FindControl("lbcourse_id")).Text);
                     string short_name = Convert.ToString(((Label)ditem.FindControl("lbshort_name")).Text);
                     string long_name = Convert.ToString(((Label)ditem.FindControl("lblong_name")).Text);
                     string term_id = Convert.ToString(((Label)ditem.FindControl("lbterm_id")).Text);
@@ -455,12 +455,12 @@ namespace DSISLMS_Web
                     RLresult.Text = string.Empty;
                     if (operation == "I")
                     {
-                        ProceedCourses(CourseOfferingNo, CourseOfferingNo, short_name, long_name, term_id, "I");
+                        ProceedCourses(CourseOfferingNo,course_id, short_name, long_name, term_id, "I");
 
                     }
                     else if (operation == "U")
                     {
-                        ProceedCourses(CourseOfferingNo, CourseOfferingNo, short_name, long_name, term_id, "U");
+                        ProceedCourses(CourseOfferingNo,course_id, short_name, long_name, term_id, "U");
                     }
                 }
             }
@@ -550,7 +550,7 @@ namespace DSISLMS_Web
                     #region "update user"
 
                     Constants.COURSE_ID = course.externalId;
-                    course.name="U"+short_name;
+                    course.name=short_name;
                     Course newcourse = await objCourse.UpdateCourse(course);
                     string result = string.Empty;
                     result = Convert.ToString(Constants.RESPONSERESULT);

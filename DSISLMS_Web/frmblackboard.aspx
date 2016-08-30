@@ -50,7 +50,10 @@
                                        <telerik:RadMultiPage runat="server" ID="RMPBlackboard"  SelectedIndex="0"
                                                     CssClass="multiPage" Width="100%">
                                                     <telerik:RadPageView runat="server" ID="RPVuser">
-                                                       
+                                                         <telerik:RadPushButton runat="server" ID="RPBSendalluserBD"  Visible="false"
+                                                            AutoPostBack="true" SingleClickText="Processing ..." OnClick="RPBSendalluserBD_Click"
+                                                            Text="Insert All to Blackboard">
+                                                        </telerik:RadPushButton>
                                                        <!--Start User Grid Bind  -->
                                                          <telerik:RadGrid ID="RgvUsers" runat="server" AutoGenerateColumns="False" Width="100%"  
                                                             FilterMenu-RenderMode="Lightweight"
@@ -61,7 +64,7 @@
                                                                 <GroupingSettings CollapseAllTooltip="Collapse all groups"></GroupingSettings>
                                                                 <MasterTableView  AllowMultiColumnSorting="true">
                                                                     <Columns>
-                                                                        <telerik:GridTemplateColumn UniqueName="CheckBoxTemplateColumn" Visible="false" HeaderStyle-Width="100%" ItemStyle-Width="100%" AllowFiltering="false">
+                                                                        <telerik:GridTemplateColumn Visible="false" UniqueName="CheckBoxTemplateColumn" HeaderStyle-Width="100%" ItemStyle-Width="100%" AllowFiltering="false">
                                                                               <ItemTemplate>
                                                                                 <asp:CheckBox ID="ItemChkbox" runat="server"  
                                                                                   AutoPostBack="True" />
@@ -108,7 +111,12 @@
                                                                                     <Icon CssClass="rbNext"></Icon>
                                                                                  </telerik:RadPushButton>
                                                                             </ItemTemplate>
-                                                                        
+                                                                            <HeaderTemplate>
+                                                                                  <telerik:RadPushButton runat="server" Visible="false"  id="btnpushAllmodel" Width="100%" Text="Send All" 
+                                                                                       CommandName="btnpushAllmodel"    Primary="true"   >
+                                                                                    <Icon CssClass="rbNext"></Icon>
+                                                                                 </telerik:RadPushButton>
+                                                                              </HeaderTemplate>
                                                                         </telerik:GridTemplateColumn>                                                                    
                                                                     </Columns>
                                                                     <PagerStyle AlwaysVisible="false"></PagerStyle>
@@ -135,7 +143,7 @@
                                                                 <MasterTableView  AllowMultiColumnSorting="true">
                                                                     <Columns>
                                                                         
-                                                                        <telerik:GridTemplateColumn HeaderText="Term ID"  ShowSortIcon="true" Visible="true" AllowSorting="true"
+                                                                        <telerik:GridTemplateColumn HeaderText="Term Id"  ShowSortIcon="true" Visible="true" AllowSorting="true"
                                                                              ItemStyle-VerticalAlign="Top" DataField="TermID" AllowFiltering="true" HeaderStyle-Width="100%" ItemStyle-Width="100%" >
                                                                              <ItemTemplate>
                                                                                 <asp:Label ID="lbTermID" runat="server" Visible="true" Text='<%# Convert.ToString(Eval("TermID")) %>' />
@@ -208,7 +216,12 @@
 
 
                                                                         
-                                                                        
+                                                                        <telerik:GridTemplateColumn HeaderText="Course Id"  ShowSortIcon="true" Visible="true" AllowSorting="true"
+                                                                             ItemStyle-VerticalAlign="Top" DataField="TermID" AllowFiltering="true" HeaderStyle-Width="100%" ItemStyle-Width="100%" >
+                                                                             <ItemTemplate>
+                                                                                <asp:Label ID="lbcourse_id" runat="server" Visible="true" Text='<%# Convert.ToString(Eval("course_id")) %>' />
+                                                                            </ItemTemplate>
+                                                                        </telerik:GridTemplateColumn>
                                                                         <telerik:GridTemplateColumn HeaderText="Short Name"  ShowSortIcon="true"  AllowSorting="true" ItemStyle-VerticalAlign="Top" DataField="name"  
                                                                              AllowFiltering="true" Visible="true" HeaderStyle-Width="100%" ItemStyle-Width="100%" >
                                                                             <ItemTemplate> 

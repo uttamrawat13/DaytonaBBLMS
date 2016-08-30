@@ -25,7 +25,7 @@ namespace BBDNRESTDemoCSharp
         public static string COURSE_NAME = "microsoft_office";
 		public static string COURSE_DESCRIPTION = "microsoft office all";
 
-
+        
         /*public static string USER_PATH = "/learn/api/public/v1/users";
         public static string USER_ID = "guest";
         public static string USER_NAME = "JimQueen";
@@ -43,8 +43,11 @@ namespace BBDNRESTDemoCSharp
         public static string USER_EMAIL = "naresh.kumarbirdo@gmail.com";
 
 
-        public static string RESPONSERESULT = "FAIL";	
-
+        public static string RESPONSERESULT = "FAIL";
+        public static string BBTermId = string.Empty;
+        public static string BBCourseId = string.Empty;
+        public static string BBUserId = string.Empty;
+         
     }
 }
 

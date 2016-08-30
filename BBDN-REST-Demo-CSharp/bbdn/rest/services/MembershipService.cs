@@ -27,15 +27,15 @@ namespace BBDNRESTDemoCSharp
         public async Task<Membership> CreateObject(Membership newMembership)
         {
             Membership membership = new Membership();
-            var uri = new Uri(Constants.HOSTNAME + Constants.COURSE_PATH + "/externalId:" + Constants.COURSE_ID + "users/externalId:" + Constants.USER_ID);
+            var uri = new Uri(Constants.HOSTNAME + Constants.COURSE_PATH + "/externalId:" + Constants.COURSE_ID + "/users/externalId:" + Constants.USER_ID);
 
             try
             {
-                var json = JsonConvert.SerializeObject(membership);
+                var json = JsonConvert.SerializeObject(newMembership);
                 var body = new StringContent(json, Encoding.UTF8, "application/json");
 
-                HttpResponseMessage response = await client.PostAsync(uri, body);
-
+               // HttpResponseMessage response = await client.PostAsync(uri, body);
+                HttpResponseMessage response = await client.PutAsync(uri, body);
                 if (response.IsSuccessStatusCode)
                 {
                     var content = await response.Content.ReadAsStringAsync();

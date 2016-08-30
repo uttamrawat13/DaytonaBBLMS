@@ -60,6 +60,7 @@
     <Compile Include="bbdn\rest\services\UserService.cs" />
     <Compile Include="bbdn\rest\UpdateModels\UpdateUser.cs" />
     <Compile Include="doCourse.cs" />
+    <Compile Include="doMembership.cs" />
     <Compile Include="doTerm.cs" />
     <Compile Include="doUser.cs" />
     <Compile Include="DynamicJsonConverter.cs" />

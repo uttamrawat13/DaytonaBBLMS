@@ -75,7 +75,13 @@
 
                                        <telerik:RadMenu ID="RMenuMain"   runat="server" Width="100%" RenderMode="Classic"  EnableSelection="true"   Style="z-index:6" >
                                             <Items>
-                                                 <telerik:RadMenuItem Text="Blackboard" NavigateUrl="frmblackboard.aspx" />
+                                                 <telerik:RadMenuItem Text="Blackboard">
+                                                    <GroupSettings Width="200px" />
+                                                    <Items>
+                                                        <telerik:RadMenuItem Text="Manual" NavigateUrl="frmblackboard.aspx"></telerik:RadMenuItem>
+                                                        <telerik:RadMenuItem Text="Bulk" NavigateUrl="frmbulkenrollment.aspx"></telerik:RadMenuItem>
+                                                    </Items>
+                                                 </telerik:RadMenuItem>
                                                  <telerik:RadMenuItem Text="Schedule" NavigateUrl="frmschedule.aspx" />
                                                 <telerik:RadMenuItem Text="Logout" NavigateUrl="frmLogin.aspx" />
                                             </Items>
@@ -97,7 +103,7 @@
                 <telerik:LayoutRow>
                     <Columns>
                        <telerik:LayoutColumn ID="LCContent" Span="12" runat="server"  SpanXs="12" SpanSm="12" style="margin-top:5px; min-height:350px;">
-                             <asp:ContentPlaceHolder ID="CPHDetail" runat="server" >
+                             <asp:ContentPlaceHolder ID="CPHDetail" runat="server"  >
                              
                               </asp:ContentPlaceHolder>
                        </telerik:LayoutColumn>

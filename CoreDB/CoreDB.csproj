@@ -42,6 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BBBlukEnrollmentList.cs" />
     <Compile Include="BBCoursesList.cs" />
     <Compile Include="BBStudentList.cs" />
     <Compile Include="BBTermList.cs" />

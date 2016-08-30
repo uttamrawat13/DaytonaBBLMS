@@ -43,8 +43,8 @@ namespace DSISLMS_Web
                 {
                     RlblResult.Text = "Invalid user!";
                 } 
-
-                /*string username = string.Empty, password = string.Empty;
+                */
+                string username = string.Empty, password = string.Empty;
 
                 username = Convert.ToString(RTxtUsername.Text).ToLower();
                 password = Convert.ToString(RTxtPassword.Text).ToLower();
@@ -56,12 +56,15 @@ namespace DSISLMS_Web
                 else
                 {
                     RlblResult.Text = "Invalid user!";
-                }*/
-               
-                Response.Redirect("frmblackboard.aspx");
+                }
+                //show();
+                //Response.Redirect("frmblackboard.aspx");
             }
           
         }
-       
+        public async void show()
+        {
+            
+        }
     }
 }
