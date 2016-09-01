@@ -86,7 +86,7 @@ namespace BBDNRESTDemoCSharp
                 var json = JsonConvert.SerializeObject(updateMembership);
                 var body = new StringContent(json, Encoding.UTF8, "application/json");
 
-                HttpResponseMessage response = await HttpClientExtensions.PatchAsync(client, Constants.HOSTNAME + Constants.COURSE_PATH + "/externalId:" + Constants.COURSE_ID + "users/externalId:" + Constants.USER_ID, body);
+                HttpResponseMessage response = await HttpClientExtensions.PatchAsync(client, Constants.HOSTNAME + Constants.COURSE_PATH + "/externalId:" + Constants.COURSE_ID + "/users/externalId:" + Constants.USER_ID, body);
 
 
                 if (response.IsSuccessStatusCode)

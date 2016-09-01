@@ -79,7 +79,7 @@
                                                     <GroupSettings Width="200px" />
                                                     <Items>
                                                         <telerik:RadMenuItem Text="Manual" NavigateUrl="frmblackboard.aspx"></telerik:RadMenuItem>
-                                                        <telerik:RadMenuItem Text="Bulk" NavigateUrl="frmbulkenrollment.aspx"></telerik:RadMenuItem>
+                                                        <telerik:RadMenuItem Text="Enrolment" NavigateUrl="frmbulkenrollment.aspx"></telerik:RadMenuItem>
                                                     </Items>
                                                  </telerik:RadMenuItem>
                                                  <telerik:RadMenuItem Text="Schedule" NavigateUrl="frmschedule.aspx" />

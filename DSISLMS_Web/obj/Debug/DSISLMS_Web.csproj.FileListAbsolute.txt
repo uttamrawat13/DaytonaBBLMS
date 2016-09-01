@@ -169,3 +169,5 @@ D:\DDML\DSISLMS\DSISLMS_Web\bin\CoreDB.pdb
 D:\DDML\DSISLMS\DSISLMS_Web\bin\Newtonsoft.Json.xml
 D:\DDML\DSISLMS\DSISLMS_Web\obj\Debug\DSISLMS_Web.dll
 D:\DDML\DSISLMS\DSISLMS_Web\obj\Debug\DSISLMS_Web.pdb
+D:\DDML\DSISLMS\DSISLMS_Web\bin\System.Net.Http.Formatting.xml
+D:\DDML\DSISLMS\DSISLMS_Web\bin\System.Web.Http.xml

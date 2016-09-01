@@ -35,7 +35,6 @@
                                         <telerik:RadTab Text="Users"  TabIndex="0"></telerik:RadTab>
                                         <telerik:RadTab Text="Terms" TabIndex="1" ></telerik:RadTab>
                                         <telerik:RadTab Text="Courses" TabIndex="2" ></telerik:RadTab>
-                                        <telerik:RadTab Text="Enrollment" TabIndex="3"></telerik:RadTab>
                                    </Tabs>
                                 </telerik:RadTabStrip>                        
                              </telerik:LayoutColumn>
@@ -276,9 +275,6 @@
                                                          <!--End Courses Grid Bind -->
 
                                                  
-                                                    </telerik:RadPageView>
-                                                    <telerik:RadPageView runat="server" ID="RPVEnrollment">
-                                                         Enrollment
                                                     </telerik:RadPageView>
                                           </telerik:RadMultiPage>
                                     </div>
